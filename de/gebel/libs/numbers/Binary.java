@@ -258,7 +258,7 @@ public class Binary {
      * @return the result 
      */
     public static BigInteger remainder(String dividend, String divisor) {
-        return divideNumbers(dividend, divisor);
+        return remainderNumbers(dividend, divisor);
     }
     
     /**
