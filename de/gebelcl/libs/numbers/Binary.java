@@ -1,4 +1,4 @@
-package de.gebel.libs.numbers;
+package de.gebelcl.libs.numbers;
 
 import java.math.*;
 import java.math.BigInteger;
